@@ -8,6 +8,6 @@ class IndexController extends Controller
 {
     public function __invoke()
     {
-        return view('post.index1');
+        return view('post.index');
     }
 }
